@@ -75,5 +75,11 @@ public class CRUD {
 		int c = pStatement.executeUpdate();
 		// Print the number of affected rows
 		System.out.println(c+" record deleted");
+		
+		//Closing 
+		pstmt.close();
+		stmt.close();
+		pStatement.close();
+		conn.close();
 	}
 }
