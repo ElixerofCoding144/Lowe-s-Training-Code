@@ -22,7 +22,7 @@
 		
 //--------------------------------------------------------STEPS TO DEVELOP SPRING PROJECT--------------------------------------------------------------
 //	1. Create Java Project 
-//	2. Load the drivers 
+//	2. Load the jars 
 //	3. Create bean class 
 //	4. Create xml file to get the properties 
 //	5. Create test class
